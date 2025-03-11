@@ -54,8 +54,8 @@ _(View all my repositories **[here](https://github.com/YourGitHubUsername?tab=re
 ---
 -->
 ## 📫 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/salahuddinkhan99/)) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](salahkhan.official@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salahuddinkhan99/)) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salahkhan.official@gmail.com)
 
 ---
 
