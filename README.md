@@ -42,8 +42,7 @@ My expertise includes:
 🔹 **[Project 1 Name](#)** – [Brief description of your project. Include technologies used.]  
 🔹 **[Project 2 Name](#)** – [Brief description of your project.]  
 -->
-_(View all my repositories **[here](https://github.com/YourGitHubUsername?tab=repositories)**)_
-
+_(View all my repositories  **[here](https://github.com/SALAHUDDINKHAN99?tab=repositories)**)_
 ---
 <!--
 ## 💡 **What I'm Working On**
